@@ -1,6 +1,6 @@
 # school_project
 
-### Theme
+# Theme
 
 <u>AI, Education, Professional Development, Society, Technology</u>
 
@@ -19,20 +19,31 @@
 []()
 []()
 
-### Planning
+# Planning
 
-##### Wireframe
+### Wireframe
 
-##### Structure
+### Structure
+1. Homepage (Introduction)
+    - What is it? Why is it important? Main themese
+2. Gamification in education
+    - How gamification improves education?
+3. Gamification in professional development
+    - Use of game elements in upgrading education and tool against burnout on work
+4. Gamification and wellbeing
+    - How can gamification be used to solve social and personal problems, such as burnout
+5. Conclusion
+    - summarize the matherial and call to action
 
-##### Colors
-cdb4db
-c8b6ff
-9f86c0
+### Colors
+- cdb4db
+- c8b6ff
+- 9f86c0
 
-##### Universal 
+### Universal design
+- Text options for non-text content
+- Available contrast
+- Clear navigation and orientation
+- Option for keyboard navigation
 
-
-### Work dividing
-
-
+# Work dividing
