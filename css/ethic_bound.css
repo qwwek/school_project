@@ -8,7 +8,7 @@ body {
 
 header {
     display: flex;
-    justify-content: space-between; /*center*/
+    justify-content: space-between;
     align-items: center;
     background-color: #000000;
     padding: 20px;
@@ -20,6 +20,12 @@ header {
     display: flex;
     align-items: center;
     gap: 20px;
+}
+
+.header-center {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .header-left a, .header-right a {
